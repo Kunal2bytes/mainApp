@@ -10,4 +10,9 @@ public class FirstArray {
             System.out.println(a[i]);
         }
     }
+   //bug 123
+ public static void m1(){
+// in progress
+ }
+
 }
